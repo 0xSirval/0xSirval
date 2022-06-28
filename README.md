@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @0xSirval
-- 👀 I’m interested in blockchain and gaming. I am also interested in quant trading. 
-- 🌱 I’m currently learning fullstack development
-- 📫 How to reach me: @Sirvaleth on twitter, Genesis#2222 on discord, or via email @ davidmiller489356@gmail.com
